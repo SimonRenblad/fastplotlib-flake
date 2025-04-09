@@ -70,6 +70,7 @@
       buildInputs = [
         fastplotlib
         pypkgs.pyqt6
+        pypkgs.imageio
       ];
     };
   };
